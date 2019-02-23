@@ -1,0 +1,7 @@
+l1
+1
+64
+8192
+writeAllocate
+RND
+instruction

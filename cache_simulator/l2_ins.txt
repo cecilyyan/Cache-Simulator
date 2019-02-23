@@ -1,0 +1,7 @@
+l2
+8
+64
+32768
+writeAllocate
+LRU
+instruction

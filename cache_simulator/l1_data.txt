@@ -1,0 +1,7 @@
+l1
+4
+64
+16384
+writeAllocate
+LRU
+data
